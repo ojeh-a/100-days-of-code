@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-Day 0: April 4, 2024
+Day 0: April 3, 2024
 
 **Today's Progress**: Learning to write mysql queries on python using MySQLdb modul
 
