@@ -34,3 +34,12 @@ Day 4: April 6, 2024
 **Today's Progress**: Just showing up
 
 **Thought**: No excuse
+
+Day 5: April 7, 2024
+
+**Today's Progress**: Reading sqlalchemy documentation
+
+**Thoughts**:
+
+Day 5: April 8, 2024
+
