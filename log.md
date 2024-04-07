@@ -29,7 +29,7 @@ though.
 
 -----------------------------------------------------------------
 
-Day 4: April 5, 2024
+Day 4: April 6, 2024
 
 **Today's Progress**: Just showing up
 
