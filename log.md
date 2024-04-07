@@ -6,6 +6,8 @@ Day 0: April 3, 2024
 
 **Thoughts:** I am trying to master Object Relational Mapping.
 
+--------------------------------------------------------------------
+
 Day 1: April 4, 2024
 
 **Today's progress**: Finally learnt how to prevent SQL injection using parametizing(hope i spelt it right lol).
@@ -15,3 +17,20 @@ a limit of time is fixed for you, which if you don't use it for clearing away th
 from your mind, it will go and you will go and it will never return." Meditations 2.4
 
 **Link(s) to work**
+
+------------------------------------------------------------------
+
+Day 3: April 5th, 2024
+
+** Today;x Progress **: Finally started learning sqlalchemy, I am just getting familiar with it \
+though.
+
+**Thought**: Nothing right now.
+
+-----------------------------------------------------------------
+
+Day 4: April 5, 2024
+
+**Today's Progress**: Just showing up
+
+**Thought**: No excuse
