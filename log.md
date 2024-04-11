@@ -20,7 +20,7 @@ from your mind, it will go and you will go and it will never return." Meditation
 
 ------------------------------------------------------------------
 
-Day 3: April 5th, 2024
+Day 2: April 5th, 2024
 
 ** Today;x Progress **: Finally started learning sqlalchemy, I am just getting familiar with it \
 though.
@@ -29,17 +29,35 @@ though.
 
 -----------------------------------------------------------------
 
-Day 4: April 6, 2024
+Day 3: April 6, 2024
 
 **Today's Progress**: Just showing up
 
 **Thought**: No excuse
 
-Day 5: April 7, 2024
+------------------------------------------------------
+
+Day 4: April 7, 2024
 
 **Today's Progress**: Reading sqlalchemy documentation
 
 **Thoughts**:
 
-Day 5: April 8, 2024
+-------------------------------------------------------
 
+Day 5: April 8, 2024
+** Today's progress **:
+Watching a video on sqlalchemy
+
+**Thoughts**:
+ I am thinking of creating an app for stoicism
+
+----------------------------------------------------------
+
+Day 6: April 11,2024
+
+** Todays's progress**:
+finally started using sql alchemy
+
+** thoughts ** 
+Nothing right now. I showed up
